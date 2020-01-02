@@ -45,6 +45,9 @@ ext {
     // Google Dependencies
     material_version = '1.2.0-alpha03'
 
+    // Android Architecture Components Versions
+    room_version = "2.2.3"
+
     // Unit Testing Dependencies Versions
     junit_version = "4.12"
 
