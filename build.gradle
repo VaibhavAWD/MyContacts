@@ -44,6 +44,7 @@ ext {
 
     // Google Dependencies
     material_version = '1.2.0-alpha03'
+    truth_version = "0.44"
 
     // Android Architecture Components Versions
     room_version = "2.2.3"

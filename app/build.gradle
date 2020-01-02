@@ -44,10 +44,12 @@ dependencies {
 
     // Unit Testing Dependencies
     testImplementation "junit:junit:$junit_version"
+    testImplementation "com.google.truth:truth:$truth_version"
 
     // Instrumented Testing Dependencies
     androidTestImplementation "androidx.test.ext:junit:$androidx_test_ext_junit_version"
     androidTestImplementation "androidx.test.espresso:espresso-core:$androidx_test_espresso_version"
+    androidTestImplementation "com.google.truth:truth:$truth_version"
 
     // Third Party Dependencies
     // Timber - For logging
